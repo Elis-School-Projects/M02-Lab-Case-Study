@@ -1,3 +1,5 @@
+# Github Repo Link: https://github.com/Elis-School-Projects/M02-Lab-Case-Study
+
 # Name: Eli Walters
 # File Name: M02-Case-Study.py
 # Description: This application will accept student names and GPAs and test 
